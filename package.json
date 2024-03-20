@@ -6,6 +6,10 @@
     "mongoose": "^8.2.2"
   },
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
